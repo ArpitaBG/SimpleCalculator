@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: mybluemix.net
+  name: Simple Calculator
+  host: Simple-Calculator-2sd14cs024
+  disk_quota: 1024M
